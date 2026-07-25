@@ -137,5 +137,6 @@ Build a robust, scalable phishing detection system that analyzes:
 - Ensure `requirements.txt` dependencies are installed before running the pipeline (`pip install -r requirements.txt`).
 - Playwright requires an additional browser install step: `playwright install`.
 - GPU is recommended for RoBERTa embedding generation at scale (34K+ URLs).
-- Author
-- BANOTH MAHESH
+  
+  Author
+  BANOTH MAHESH
